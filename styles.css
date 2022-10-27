@@ -1,0 +1,26 @@
+* {
+    background-color:rgb(37, 33, 64);
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    font-size: 30px;
+}
+
+p {
+    font-weight: bold;
+}
+
+.burger {
+    height: 400px;
+    width: auto;
+}
+
+.doener {
+    height: 400px;
+    width: auto;
+}
+
