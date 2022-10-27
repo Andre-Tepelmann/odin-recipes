@@ -8,3 +8,5 @@ During this project i have build an index with the basic Boilerplate and links t
 The recipe sites mostly utilize the header,paragraph,anchor,image and list features of html. 
 
 I also added an image to every recipe page.
+
+Through the CSS-Exercises i now added an stylesheet and tested some CSS Code.
